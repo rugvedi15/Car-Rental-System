@@ -1,0 +1,8 @@
+Car Name: Nissan Maxima or similar
+Car Type: Premium
+Max Passengers: 5
+Car Price per Day: $34
+Car Total Price: $132
+Vendor Name: Enterprise Rental Company
+Ratings 81% positive ratings
+Available at: orbitz

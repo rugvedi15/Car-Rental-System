@@ -1,0 +1,8 @@
+Car Name: Hyundai Kona or similar
+Car Type: Compact SUV
+Max Passengers: 5
+Car Price per Day: $32
+Car Total Price: $124
+Vendor Name: National Car Rental Rental Company
+Ratings 84% positive ratings
+Available at: orbitz

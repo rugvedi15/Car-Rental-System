@@ -1,0 +1,8 @@
+Car Name: Ford Explorer or similar
+Car Type: Fullsize SUV
+Max Passengers: 7
+Car Price per Day: $80
+Car Total Price: $293
+Vendor Name: Budget
+Ratings No Ratings
+Available at: expedia

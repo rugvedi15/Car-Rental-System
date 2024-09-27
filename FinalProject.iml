@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-support-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-remote-driver-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-safari-driver-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-json-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-manager-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-os-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-ie-driver-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-java-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-edge-driver-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-firefox-driver-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-http-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-devtools-v118-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-devtools-v119-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-chromium-driver-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-devtools-v85-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-devtools-v117-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-api-4.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-chrome-driver-4.15.0.jar!/" />
+          <root url="file://$MODULE_DIR$/selenium-java-4.15.0 2/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-remote-driver-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-safari-driver-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-support-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-manager-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-os-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-ie-driver-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-json-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-firefox-driver-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-http-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-devtools-v118-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-devtools-v119-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-edge-driver-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-devtools-v85-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-devtools-v117-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-api-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-chrome-driver-4.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/selenium-java-4.15.0 2/selenium-chromium-driver-4.15.0-sources.jar!/" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/selenium-java-4.15.0 2/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/selenium-java-4.15.0 2" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/selenium-java-4.15.0 2" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/selenium-java-4.15.0 2" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/selenium-java-4.15.0 2" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="webdrivermanager-5.7.0-fat" level="project" />
+    <orderEntry type="library" name="jsoup-1.17.2" level="project" />
+  </component>
+</module>

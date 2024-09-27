@@ -1,0 +1,8 @@
+Car Name: Chevrolet Colorado or similar
+Car Type: Standard Pickup Regular Cab
+Max Passengers: 4
+Car Price per Day: $31
+Car Total Price: $121
+Vendor Name: Enterprise
+Ratings 81% positive ratings
+Available at: carrentals

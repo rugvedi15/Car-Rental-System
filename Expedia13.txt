@@ -1,0 +1,8 @@
+Car Name: Ford Expedition or similar
+Car Type: Fullsize SUV
+Max Passengers: 7
+Car Price per Day: $73
+Car Total Price: $282
+Vendor Name: Enterprise
+Ratings No Ratings
+Available at: expedia

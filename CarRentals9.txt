@@ -1,0 +1,8 @@
+Car Name: Compact or larger - Vehicle determined upon pick-up
+Car Type: Special
+Max Passengers: 5
+Car Price per Day: $35
+Car Total Price: $119
+Vendor Name: Enterprise
+Ratings 83% positive ratings
+Available at: carrentals

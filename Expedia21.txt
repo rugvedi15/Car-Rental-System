@@ -1,0 +1,8 @@
+Car Name: Chevy Spark or similar
+Car Type: Economy
+Max Passengers: 4
+Car Price per Day: $30
+Car Total Price: $116
+Vendor Name: Enterprise
+Ratings No Ratings
+Available at: expedia

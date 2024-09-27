@@ -1,0 +1,8 @@
+Car Name: Nissan Versa or similar
+Car Type: Compact
+Max Passengers: 5
+Car Price per Day: $35
+Car Total Price: $121
+Vendor Name: Enterprise Rental Company
+Ratings 83% positive ratings
+Available at: orbitz

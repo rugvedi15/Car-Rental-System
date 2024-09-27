@@ -1,0 +1,8 @@
+Car Name: Vw Jetta or similar
+Car Type: Standard
+Max Passengers: 5
+Car Price per Day: $33
+Car Total Price: $128
+Vendor Name: National Car Rental
+Ratings 84% positive ratings
+Available at: carrentals

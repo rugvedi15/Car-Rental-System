@@ -1,0 +1,8 @@
+Car Name: Nissan Versa or similar
+Car Type: Compact
+Max Passengers: 5
+Car Price per Day: $30
+Car Total Price: $116
+Vendor Name: Enterprise
+Ratings No Ratings
+Available at: expedia

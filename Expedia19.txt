@@ -1,0 +1,8 @@
+Car Name: Audi A3 or BMW 2 Series Gran Coupe or similar
+Car Type: Premium Special
+Max Passengers: 5
+Car Price per Day: $35
+Car Total Price: $135
+Vendor Name: Enterprise
+Ratings No Ratings
+Available at: expedia

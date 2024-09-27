@@ -1,0 +1,8 @@
+Car Name: Toyota Camry or similar
+Car Type: Fullsize
+Max Passengers: 5
+Car Price per Day: $37
+Car Total Price: $128
+Vendor Name: Enterprise
+Ratings 83% positive ratings
+Available at: carrentals

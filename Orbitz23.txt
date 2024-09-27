@@ -1,0 +1,8 @@
+Car Name: Toyota Camry or similar
+Car Type: Fullsize
+Max Passengers: 5
+Car Price per Day: $33
+Car Total Price: $128
+Vendor Name: National Car Rental Rental Company
+Ratings 84% positive ratings
+Available at: orbitz

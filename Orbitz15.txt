@@ -1,0 +1,8 @@
+Car Name: Vw Jetta or similar
+Car Type: Standard
+Max Passengers: 5
+Car Price per Day: $32
+Car Total Price: $123
+Vendor Name: Enterprise Rental Company
+Ratings 81% positive ratings
+Available at: orbitz

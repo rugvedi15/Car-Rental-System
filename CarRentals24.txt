@@ -1,0 +1,8 @@
+Car Name: Chevrolet Siverado 1500 Crew Cab or similar
+Car Type: Premium Pickup Regular Cab
+Max Passengers: 4
+Car Price per Day: $34
+Car Total Price: $131
+Vendor Name: National Car Rental
+Ratings 84% positive ratings
+Available at: carrentals

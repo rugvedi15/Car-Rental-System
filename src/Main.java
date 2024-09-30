@@ -76,7 +76,7 @@ public class Main {
                 switch (userChoice) {
                     case 1:
 
-                        System.setProperty("webdriver.chrome.driver", "/Users/rishinpandit/Desktop/Projects/Car Rental Project/FinalProject 4/chromedriver-mac-x64/chromedriver");
+                        System.setProperty("webdriver.chrome.driver", "/Users/rm/Desktop/Projects/Car Rental Project/FinalProject 4/chromedriver-mac-x64/chromedriver");
                         scanner = new Scanner(System.in);
 
                         String location = "";
